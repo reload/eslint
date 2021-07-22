@@ -1,0 +1,15 @@
+{
+  "name": "@reloaddk/eslint",
+  "private": true,
+  "author": {
+    "email": "lasse@reload.dk",
+    "name": "Lasse Borly",
+    "url": "https://github.com/lasseborly/"
+  },
+  "workspaces": [
+    "./packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}
