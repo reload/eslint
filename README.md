@@ -1,3 +1,5 @@
+![eslint_reload](https://figmage.com/images/d1DoKVVzCQRk3FKp12IT7.png)
+
 # JavaScript the Reload way
 
 A [Reload](https://reload.dk/) opinionated way of making sure our JS code is up to snuff.
