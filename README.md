@@ -110,6 +110,17 @@ All of the above applies but instead of `recommended` we expose a specific
 }
 ```
 
+## Drupal
+
+There is some globals you would want to include when doing Drupal development.
+This is done via. adding `plugin:reload/drupal` at the end.
+
+```json
+{
+  "extends": ["plugin:reload/recommended", "plugin:reload/drupal"]
+}
+```
+
 ## Editor integration
 
 The `editor_integration` directory is an example of smart editor integration

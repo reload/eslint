@@ -25,5 +25,16 @@ module.exports = {
         "import/order": "error",
       },
     },
+    drupal: {
+      env: {
+        browser: true,
+      },
+      globals: {
+        Drupal: true,
+        jQuery: true,
+        drupalSettings: true,
+        drupalTranslations: true,
+      },
+    },
   },
 };
